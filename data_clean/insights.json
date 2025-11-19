@@ -1,0 +1,185 @@
+{
+  "last_year": 2024,
+  "top_yls": [
+    {
+      "country_code": "ASM",
+      "country": "American Samoa",
+      "yls_score": 100.0
+    },
+    {
+      "country_code": "FSM",
+      "country": "Micronesia, Federated States of",
+      "yls_score": 92.3
+    },
+    {
+      "country_code": "VIR",
+      "country": "Virgin Islands (US)",
+      "yls_score": 88.8
+    },
+    {
+      "country_code": "SWE",
+      "country": "Sweden",
+      "yls_score": 88.2
+    },
+    {
+      "country_code": "KIR",
+      "country": "Kiribati",
+      "yls_score": 87.1
+    },
+    {
+      "country_code": "ISL",
+      "country": "Iceland",
+      "yls_score": 86.6
+    },
+    {
+      "country_code": "FIN",
+      "country": "Finland",
+      "yls_score": 84.3
+    },
+    {
+      "country_code": "BEL",
+      "country": "Belgium",
+      "yls_score": 83.8
+    },
+    {
+      "country_code": "CUB",
+      "country": "Cuba",
+      "yls_score": 83.5
+    },
+    {
+      "country_code": "GBR",
+      "country": "United Kingdom",
+      "yls_score": 83.4
+    }
+  ],
+  "bottom_yls": [
+    {
+      "country_code": "SSD",
+      "country": "South Sudan",
+      "yls_score": 0.0
+    },
+    {
+      "country_code": "SOM",
+      "country": "Somalia, Fed. Rep.",
+      "yls_score": 11.6
+    },
+    {
+      "country_code": "CAF",
+      "country": "Central African Republic",
+      "yls_score": 19.5
+    },
+    {
+      "country_code": "TCD",
+      "country": "Chad",
+      "yls_score": 21.7
+    },
+    {
+      "country_code": "AFG",
+      "country": "Afghanistan",
+      "yls_score": 26.0
+    },
+    {
+      "country_code": "MLI",
+      "country": "Mali",
+      "yls_score": 26.3
+    },
+    {
+      "country_code": "NER",
+      "country": "Niger",
+      "yls_score": 26.8
+    },
+    {
+      "country_code": "GIN",
+      "country": "Guinea",
+      "yls_score": 27.2
+    },
+    {
+      "country_code": "LBR",
+      "country": "Liberia",
+      "yls_score": 30.0
+    },
+    {
+      "country_code": "SDN",
+      "country": "Sudan",
+      "yls_score": 30.5
+    }
+  ],
+  "top_improvers_literacy_5y": [
+    {
+      "country_code": "AFG",
+      "country": "Afghanistan",
+      "lit_change_5y": 26.8400003051758
+    },
+    {
+      "country_code": "GNB",
+      "country": "Guinea-Bissau",
+      "lit_change_5y": 22.740001678466797
+    },
+    {
+      "country_code": "GIN",
+      "country": "Guinea",
+      "lit_change_5y": 22.5299987792969
+    },
+    {
+      "country_code": "VUT",
+      "country": "Vanuatu",
+      "lit_change_5y": 22.099998474121094
+    },
+    {
+      "country_code": "ETH",
+      "country": "Ethiopia",
+      "lit_change_5y": 12.900001525878892
+    },
+    {
+      "country_code": "BFA",
+      "country": "Burkina Faso",
+      "lit_change_5y": 12.7100028991699
+    },
+    {
+      "country_code": "BEN",
+      "country": "Benin",
+      "lit_change_5y": 12.439998626708999
+    },
+    {
+      "country_code": "GHA",
+      "country": "Ghana",
+      "lit_change_5y": 10.931740404188204
+    },
+    {
+      "country_code": "UGA",
+      "country": "Uganda",
+      "lit_change_5y": 9.852520962065796
+    },
+    {
+      "country_code": "MAR",
+      "country": "Morocco",
+      "lit_change_5y": 9.650001525878906
+    }
+  ],
+  "correlations": {
+    "youth_literacy_rate": {
+      "youth_literacy_rate": 1.0,
+      "primary_enrollment_rate": 0.6,
+      "secondary_enrollment_rate": 0.75,
+      "gov_education_spending_pct_gdp": 0.2
+    },
+    "primary_enrollment_rate": {
+      "youth_literacy_rate": 0.6,
+      "primary_enrollment_rate": 1.0,
+      "secondary_enrollment_rate": 0.66,
+      "gov_education_spending_pct_gdp": 0.24
+    },
+    "secondary_enrollment_rate": {
+      "youth_literacy_rate": 0.75,
+      "primary_enrollment_rate": 0.66,
+      "secondary_enrollment_rate": 1.0,
+      "gov_education_spending_pct_gdp": 0.26
+    },
+    "gov_education_spending_pct_gdp": {
+      "youth_literacy_rate": 0.2,
+      "primary_enrollment_rate": 0.24,
+      "secondary_enrollment_rate": 0.26,
+      "gov_education_spending_pct_gdp": 1.0
+    }
+  }
+}
