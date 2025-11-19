@@ -1,10 +1,10 @@
 # Youth Learning Explorer
 
-A lightweight data science project that analyzes global youth education conditions using **World Bank WDI data**, serving a **Flask API + interactive dashboard**.
+A lightweight data science project that analyzes global youth education conditions using World Bank WDI data, serving a Flask API + interactive dashboard.
 
 ---
 
-## 📌 What It Does
+## What It Does
 - Cleans WDI CSVs → builds `education_clean.csv` (~250 countries)
 - Computes a **Youth Learning Score (0–100)** using weighted metrics
 - Generates **education profiles** (e.g., high access & literacy)
@@ -13,7 +13,7 @@ A lightweight data science project that analyzes global youth education conditio
 
 ---
 
-## ⚙️ Setup & Run
+## Setup & Run
 ```bash
 git clone https://github.com/yt987/youth-analytics.git
 cd youth-learning-explorer
