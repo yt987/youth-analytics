@@ -1,4 +1,4 @@
-# Youth Learning Explorer
+# Global Youth Education Analytics
 
 A lightweight data science project that analyzes global youth education conditions using World Bank WDI data, serving a Flask API + interactive dashboard.
 
